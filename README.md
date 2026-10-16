@@ -1,5 +1,5 @@
 # 🕹️ Game Jam FATEC Campinas 2026
-<img width="1920" height="1080" alt="game jam fatec campinas 2025" src="https://github.com/user-attachments/assets/ccdd7a15-6136-4ef0-b1b1-64e01a3b36b4" />#
+
 Bem-vindo(a) à **Game Jam FATEC Campinas 2026**!  
 Este README traz um **resumo simplificado do regulamento**, com foco nas etapas de **desenvolvimento e submissão do jogo via GitHub**.  
 Para detalhes completos, consulte o regulamento oficial disponibilizado pela organização.
